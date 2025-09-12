@@ -5,7 +5,7 @@ val lavmee by developer {
     about {
         fullName = "Sergei Gagarin"
         displayName = "Lavmee"
-        age = 23u
+        age = 24u
         company = Foresko
     }
 
